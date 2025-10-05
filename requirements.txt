@@ -1,0 +1,8 @@
+pandas
+numpy
+lightgbm==4.5.0
+scikit-learn
+joblib==1.4.2
+matplotlib
+fastapi==0.115.2
+uvicorn==0.32.0
